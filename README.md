@@ -15,8 +15,6 @@
   <img alt="Avi's Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ### I am Avi Thour
 - A Freelancer, Designer and Front-end Dev.
 - A Computer Engineering Student. 
@@ -24,8 +22,5 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<a href="https://github-readme-stats.vercel.app/api?username=thouravi&show_icons=true">
-  [github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true)
-</a>
+![github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true)
 
