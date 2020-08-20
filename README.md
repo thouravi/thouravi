@@ -3,21 +3,19 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://twitter.com/ImThour">
-  <img align="left" alt="Avi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img alt="Avi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/avithour/">
-  <img align="left" alt="Avi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Avi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/thouravi">
-  <img align="left" alt="Avi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img alt="Avi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://dribbble.com/avithour">
-  <img align="left" alt="Avi's Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
+  <img alt="Avi's Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![github stats](https://github-readme-stats.vercel.app/api?username=thouravi&show_icons=true)
 
 ### I am Avi Thour
 - A Freelancer, Designer and Front-end Dev.
@@ -26,3 +24,8 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<a href="https://github-readme-stats.vercel.app/api?username=thouravi&show_icons=true">
+  [github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true)
+</a>
+
