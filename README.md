@@ -17,8 +17,8 @@
 <br/>
 
 ### I am Avi Thour
-- A Freelancer, Designer and Front-end Dev.
-- A Computer Engineering Student. 
+- Freelancer, Designer and Front-end Dev.
+- CS Graduate. 
 - Learning New and Interesting Stuff related to making a Better Web Everyday.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
