@@ -17,7 +17,7 @@
 <br/>
 
 ### I am Avi Thour
-- Freelancer, Designer and Front-end Dev.
+- Developer, web3 & crypto enthusiast.
 - CS Graduate. 
 - Learning New and Interesting Stuff related to making a Better Web Everyday.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
@@ -27,7 +27,5 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![github stats](https://github-readme-stats.vercel.app/api?username=thouravi&show_icons=true)
-
-![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thouravi)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=thouravi)
