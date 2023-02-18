@@ -7,7 +7,7 @@
 - Improving 1% everyday
 
 ### Technical Skills
-<img src="https://img.shields.io/badge/-Python%203-blue?style=flat&logo=python&logoColor=white"> <br />
+<img src="https://img.shields.io/badge/-Python%203-blue?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Java%203-orange?style=flat&logo=java&logoColor=white"><br />
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![github stats](https://github-readme-stats.vercel.app/api?username=thouravi&show_icons=true)
